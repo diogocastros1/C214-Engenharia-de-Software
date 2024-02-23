@@ -1,6 +1,6 @@
 # C214 - Engenharia de Software
 
-## Iniciar projeto com Maven no terminal
+## Iniciar projeto com Maven direto no cmd
 
 Para iniciar um projeto do zero, devemos gerar o arquivo `pom.xml`, para isto utilizamos o comando abaixo e respondemos algumas perguntas. 
 ~~~~bash
