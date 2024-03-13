@@ -28,3 +28,9 @@ Após isto, iremos responder as perguntas abaixo:
 - artifactId - meu-projeto
 - version - 1.0
 - package - com.example
+
+---
+
+## Testes mock
+
+Repositório para referencia -> https://github.com/chrislima-inatel/C214/tree/main/aula-07-mock 
